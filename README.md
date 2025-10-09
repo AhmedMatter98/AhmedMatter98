@@ -1,16 +1,59 @@
-## Hi there 👋
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGIyajBxcG5hazA5OG0wZXU2OHFmZjNvMGt4MTEzMmQxeTkyNWhodiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nNOAPjUdo4mpZFkDf8/giphy.webp"  />
+</div>
 
-<!--
-**AhmedMatter98/AhmedMatter98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="center">hey there 👋I'm Ahmed Matter</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<h6 align="left">Experienced Data Analyst with a proven track record of transforming complex data into actionable insights to drive business growth. Proficient and Expert in Excel and Power BI .<br>With strong foundational skills in SQL, Python, and data visualization tools like Tableau. Skilled in developing automated reports & Dashboards and collaborating with cross-functional teams to improve operational efficiency.</h6>
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/ahmed-matter65611" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/201228607239" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.facebook.com/share/17JePNjTRz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+</div>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
