@@ -48,6 +48,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" height="40" alt="PowerBI logo"  />  
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/690px-Microsoft_SQL_Server_Logo.svg.png?20100429075711" height="40" alt="SQL logo"  />  
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/960px-Tableau_Logo.png?20181120160841" height="40" alt="Tableau logo"  />  
+  <img width="12" />
+  <img src="https://www.pngplay.com/wp-content/uploads/7/Database-Logo-Transparent-Images.png" height="40" alt="Database logo"  />  
 
 
 
