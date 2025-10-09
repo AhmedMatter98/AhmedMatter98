@@ -51,7 +51,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/960px-Tableau_Logo.png?20181120160841" height="40" alt="Tableau logo"  />  
   <img width="12" />
-  <img src="https://www.pngplay.com/wp-content/uploads/7/Database-Logo-Transparent-Images.png" height="40" alt="Database logo"  />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/800px-R_logo.svg.png" height="40" alt="RLanguage logo"  />  
 
 
 
