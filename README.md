@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Ahmed Matter</h1>
-<h3 align="center">Senior Data Analyst | Business Intelligence Developer | Data Modeling Specialist</h3>
+<h3 align="center">Data Analyst | Business Intelligence Developer | Data Modeling Specialist</h3>
 
 ---
 
