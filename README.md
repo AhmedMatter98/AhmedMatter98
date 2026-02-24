@@ -16,11 +16,11 @@ Experienced in designing scalable data models, optimizing SQL queries, and deliv
 Strong background in:
 
 • Business Intelligence Development (Power BI, DAX, Data Modeling)  
-• Advanced SQL Querying & Database Optimization  
+• SQL Querying & Database Optimization  
 • ETL & Data Transformation (Power Query, Power Pivot)  
 • KPI Framework Design & Performance Analytics  
 • Automation of Reporting Workflows  
-• Python for Data Analysis & Process Optimization  
+• Python for Data Analysis  
 
 I bring a solution-oriented, business-first approach to analytics — aligning data strategy with organizational goals, improving operational efficiency, and enabling leadership teams to make informed, data-driven decisions.
 
@@ -37,7 +37,7 @@ Power BI | DAX | Tableau | Advanced Excel | Dashboard Development
 Data Modeling | ETL Processes | Power Query | Power Pivot | Star Schema  
 
 **Programming & Databases**  
-SQL (Advanced) | Microsoft SQL Server | Python | R  
+Microsoft SQL Server | Python | R  
 
 **Performance & Strategy**  
 KPI Development | Business Performance Analysis | Data-Driven Decision Making | Process Automation  
@@ -61,7 +61,7 @@ Advanced training in:
 
 ### 🧠 Technical Credentials
 
-#### SQL (Advanced) – HackerRank  
+#### SQL (Intermediate) – HackerRank  
 Validated expertise in:
 • Complex joins & subqueries  
 • Window functions  
