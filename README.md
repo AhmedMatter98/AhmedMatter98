@@ -109,18 +109,30 @@ Validated expertise in:
 
 ### 🌍 Open to Opportunities
 
-Open to Senior Data Analyst, Business Intelligence Developer, and Remote Analytics roles.
+Open to  Data Analyst, Business Intelligence Developer, and Remote Analytics roles.
 
 Available for international and cross-functional collaboration.
+
+---
 
 ---
 
 ### 🌐 Connect With Me
 
 <div align="center">
+
   <a href="https://lnkd.in/d8xc9vWt" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
+
+  <a href="https://wa.me/201228607239" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35"/>
+  </a>
+
+  <a href="mailto:ahmedsaleeeem626@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a>
+
 </div>
 
 ---
