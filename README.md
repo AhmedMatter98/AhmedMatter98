@@ -64,6 +64,23 @@ I am passionate about turning raw data into meaningful stories that drive measur
 - Building end-to-end data analytics portfolio projects  
 - Improving automation workflows using Python  
 
+
+
+---
+
+### 🏆 Certifications & Professional Development
+
+#### Data Skills for Excel Professionals – Specialization  
+Corporate Finance Institute (CFI) | Coursera  
+January 2026  
+
+Advanced training in:
+• Data Analysis & Modeling in Excel  
+• Power Query (ETL & Data Transformation)  
+• Power Pivot & Data Modeling  
+
+🔗 Credential Verification: https://coursera.org/verify/specialization/KNDQLY35XT94
+
 ---
 
 ⭐ *Feel free to explore my repositories and connect with me!*
