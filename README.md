@@ -1,24 +1,117 @@
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGIyajBxcG5hazA5OG0wZXU2OHFmZjNvMGt4MTEzMmQxeTkyNWhodiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nNOAPjUdo4mpZFkDf8/giphy.webp" />
+  <img height="140" src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGIyajBxcG5hazA5OG0wZXU2OHFmZjNvMGt4MTEzMmQxeTkyNWhodiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nNOAPjUdo4mpZFkDf8/giphy.webp" />
 </div>
 
 <h1 align="center">Ahmed Matter</h1>
-<h3 align="center">Data Analyst | Business Intelligence Developer</h3>
+<h3 align="center">Senior Data Analyst | Business Intelligence Developer | Data Modeling Specialist</h3>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Professional Summary
 
-Experienced Data Analyst specializing in transforming complex datasets into actionable business insights.  
-Highly proficient in **Excel** and **Power BI**, with strong working knowledge of **SQL**, **Python**, **R**, and **Tableau**.
+Business Intelligence Developer and Senior Data Analyst specializing in end-to-end analytics solutions, data modeling, and performance-driven reporting systems.
 
-I focus on:
-- Building interactive dashboards & automated reports
-- Data cleaning, transformation & modeling
-- KPI tracking & business performance analysis
-- Supporting data-driven decision-making
+Experienced in designing scalable data models, optimizing SQL queries, and delivering executive dashboards that transform complex datasets into strategic decision-support tools.
 
-I am passionate about turning raw data into meaningful stories that drive measurable business growth.
+Strong background in:
+
+• Business Intelligence Development (Power BI, DAX, Data Modeling)  
+• Advanced SQL Querying & Database Optimization  
+• ETL & Data Transformation (Power Query, Power Pivot)  
+• KPI Framework Design & Performance Analytics  
+• Automation of Reporting Workflows  
+• Python for Data Analysis & Process Optimization  
+
+I bring a solution-oriented, business-first approach to analytics — aligning data strategy with organizational goals, improving operational efficiency, and enabling leadership teams to make informed, data-driven decisions.
+
+Comfortable working in cross-functional and remote environments, collaborating with stakeholders across time zones, and delivering high-impact BI solutions for international teams.
+
+---
+
+### 🛠 Core Competencies
+
+**Business Intelligence & Analytics**  
+Power BI | DAX | Tableau | Advanced Excel | Dashboard Development  
+
+**Data Engineering & Modeling**  
+Data Modeling | ETL Processes | Power Query | Power Pivot | Star Schema  
+
+**Programming & Databases**  
+SQL (Advanced) | Microsoft SQL Server | Python | R  
+
+**Performance & Strategy**  
+KPI Development | Business Performance Analysis | Data-Driven Decision Making | Process Automation  
+
+---
+
+### 🏆 Certifications & Professional Development
+
+#### Data Skills for Excel Professionals – Specialization  
+Corporate Finance Institute (CFI) | Coursera  
+Completed: January 2026  
+
+Advanced training in:
+• Data Analysis & Financial Modeling  
+• Power Query & Data Transformation  
+• Power Pivot & Data Modeling  
+
+🔗 Verify: https://coursera.org/verify/specialization/KNDQLY35XT94  
+
+---
+
+### 🧠 Technical Credentials
+
+#### SQL (Advanced) – HackerRank  
+Validated expertise in:
+• Complex joins & subqueries  
+• Window functions  
+• Query optimization  
+• Aggregations & performance tuning  
+
+🔗 Certificate: https://www.hackerrank.com/certificates/4cef80ccf572  
+🔗 Profile: https://www.hackerrank.com/profile/AhmedMatter  
+
+---
+
+### 📊 Featured Projects
+
+> End-to-end analytics projects demonstrating data extraction, transformation, modeling, and executive-level dashboard development.
+
+#### 🔹 Project Title 1
+- Tools Used:
+- Business Problem:
+- Data Modeling Approach:
+- Key Insights:
+- Business Impact:
+
+#### 🔹 Project Title 2
+- Tools Used:
+- Business Problem:
+- Data Architecture:
+- Key Insights:
+- Performance Improvement:
+
+#### 🔹 Project Title 3
+- Tools Used:
+- Business Challenge:
+- Analytical Techniques:
+- Strategic Outcome:
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AhmedMatter98&theme=dark&hide_border=false&border_radius=5" height="220"/>
+</div>
+
+---
+
+### 🌍 Open to Opportunities
+
+Open to Senior Data Analyst, Business Intelligence Developer, and Remote Analytics roles.
+
+Available for international and cross-functional collaboration.
 
 ---
 
@@ -28,75 +121,6 @@ I am passionate about turning raw data into meaningful stories that drive measur
   <a href="https://lnkd.in/d8xc9vWt" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
-  <a href="https://wa.me/201228607239" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
-  </a>
-  <a href="https://www.facebook.com/share/17JePNjTRz/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
-  </a>
 </div>
 
 ---
-
-### 🛠️ Technical Skills
-
-<div align="left">
-
-- **Programming & Querying:** Python | SQL | R  
-- **Data Visualization:** Power BI | Tableau  
-- **Data Analysis Tools:** Excel (Advanced)  
-- **Database Systems:** Microsoft SQL Server  
-
-</div>
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedMatter98&theme=dark&hide_border=false&border_radius=5" height="220"/>
-</div>
-
----
-
-### 🚀 What I’m Currently Working On
-- Enhancing advanced DAX & Power BI modeling skills  
-- Building end-to-end data analytics portfolio projects  
-- Improving automation workflows using Python  
-
-
-
----
-
-### 🏆 Certifications & Professional Development
-
-#### Data Skills for Excel Professionals – Specialization  
-Corporate Finance Institute (CFI) | Coursera  
-January 2026  
-
-Advanced training in:
-• Data Analysis & Modeling in Excel  
-• Power Query (ETL & Data Transformation)  
-• Power Pivot & Data Modeling  
-
-🔗 Credential Verification: https://coursera.org/verify/specialization/KNDQLY35XT94
-
----
----
-
-### 🧠 Technical Certifications
-
-#### SQL (Advanced) – HackerRank  
-Demonstrated expertise in:
-• Complex joins & subqueries  
-• Window functions  
-• Aggregations & performance optimization  
-• Data manipulation & query design  
-
-🔗 Credential Verification: https://www.hackerrank.com/certificates/4cef80ccf572  
-🔗 Profile: https://www.hackerrank.com/profile/AhmedMatter
-
----
-
-
-⭐ *Feel free to explore my repositories and connect with me!*
