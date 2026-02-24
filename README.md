@@ -82,5 +82,21 @@ Advanced training in:
 🔗 Credential Verification: https://coursera.org/verify/specialization/KNDQLY35XT94
 
 ---
+---
+
+### 🧠 Technical Certifications
+
+#### SQL (Advanced) – HackerRank  
+Demonstrated expertise in:
+• Complex joins & subqueries  
+• Window functions  
+• Aggregations & performance optimization  
+• Data manipulation & query design  
+
+🔗 Credential Verification: https://www.hackerrank.com/certificates/4cef80ccf572  
+🔗 Profile: https://www.hackerrank.com/profile/AhmedMatter
+
+---
+
 
 ⭐ *Feel free to explore my repositories and connect with me!*
