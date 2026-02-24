@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Professional Summary
 
-Business Intelligence Developer and Senior Data Analyst specializing in end-to-end analytics solutions, data modeling, and performance-driven reporting systems.
+Business Intelligence Developer and Data Analyst specializing in end-to-end analytics solutions, data modeling, and performance-driven reporting systems.
 
 Experienced in designing scalable data models, optimizing SQL queries, and delivering executive dashboards that transform complex datasets into strategic decision-support tools.
 
