@@ -1,70 +1,69 @@
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGIyajBxcG5hazA5OG0wZXU2OHFmZjNvMGt4MTEzMmQxeTkyNWhodiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nNOAPjUdo4mpZFkDf8/giphy.webp"  />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGIyajBxcG5hazA5OG0wZXU2OHFmZjNvMGt4MTEzMmQxeTkyNWhodiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nNOAPjUdo4mpZFkDf8/giphy.webp" />
 </div>
 
-###
+<h1 align="center">Ahmed Matter</h1>
+<h3 align="center">Data Analyst | Business Intelligence Developer</h3>
 
-<h1 align="center">hey there 👋I'm Ahmed Matter</h1>
+---
 
-###
+### 👨‍💻 About Me
 
-<h3 align="left">👩‍💻  About Me</h3>
+Experienced Data Analyst specializing in transforming complex datasets into actionable business insights.  
+Highly proficient in **Excel** and **Power BI**, with strong working knowledge of **SQL**, **Python**, **R**, and **Tableau**.
 
-###
+I focus on:
+- Building interactive dashboards & automated reports
+- Data cleaning, transformation & modeling
+- KPI tracking & business performance analysis
+- Supporting data-driven decision-making
 
-<h6 align="left">Experienced Data Analyst with a proven track record of transforming complex data into actionable insights to drive business growth. Proficient and Expert in Excel and Power BI .<br>With strong foundational skills in SQL, Python, and data visualization tools like Tableau. Skilled in developing automated reports & Dashboards and collaborating with cross-functional teams to improve operational efficiency.</h6>
+I am passionate about turning raw data into meaningful stories that drive measurable business growth.
 
-###
+---
+
+### 🌐 Connect With Me
 
 <div align="center">
   <a href="https://lnkd.in/d8xc9vWt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
   <a href="https://wa.me/201228607239" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
   </a>
   <a href="https://www.facebook.com/share/17JePNjTRz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
   </a>
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedMatter98.AhmedMatter98&"  />
-</div>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+### 🛠️ Technical Skills
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" height="40" alt="Excel logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" height="40" alt="PowerBI logo"  />  
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/690px-Microsoft_SQL_Server_Logo.svg.png?20100429075711" height="40" alt="SQL logo"  />  
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/960px-Tableau_Logo.png?20181120160841" height="40" alt="Tableau logo"  />  
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/800px-R_logo.svg.png" height="40" alt="RLanguage logo"  />  
 
-
+- **Programming & Querying:** Python | SQL | R  
+- **Data Visualization:** Power BI | Tableau  
+- **Data Analysis Tools:** Excel (Advanced)  
+- **Database Systems:** Microsoft SQL Server  
 
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedMatter98&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=AhmedMatter98&theme=dark&hide_border=false&border_radius=5" height="220"/>
 </div>
 
-###
+---
+
+### 🚀 What I’m Currently Working On
+- Enhancing advanced DAX & Power BI modeling skills  
+- Building end-to-end data analytics portfolio projects  
+- Improving automation workflows using Python  
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
