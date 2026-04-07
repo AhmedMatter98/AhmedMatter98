@@ -71,31 +71,231 @@ Validated expertise in:
 🔗 Certificate: https://www.hackerrank.com/certificates/4cef80ccf572  
 🔗 Profile: https://www.hackerrank.com/profile/AhmedMatter  
 
----
-
-### 📊 Featured Projects
+--## 🚀 Featured Projects
 
 > End-to-end analytics projects demonstrating data extraction, transformation, modeling, and executive-level dashboard development.
 
-#### 🔹 Project Title 1
-- Tools Used:
-- Business Problem:
-- Data Modeling Approach:
-- Key Insights:
-- Business Impact:
+---
 
-#### 🔹 Project Title 2
-- Tools Used:
-- Business Problem:
-- Data Architecture:
-- Key Insights:
-- Performance Improvement:
+### 🏡 1. Real Estate Price Prediction & Analytics (Eyouth Hackathon)
 
-#### 🔹 Project Title 3
-- Tools Used:
-- Business Challenge:
-- Analytical Techniques:
-- Strategic Outcome:
+**Tools Used:**  
+Power BI • Azure SQL • SQL • Power Query • DAX  
+
+**Business Problem:**  
+Analyze real estate pricing trends and conversion performance to support investment and sales decisions.
+
+**Data Modeling Approach:**  
+- Built ETL pipeline using Power Query  
+- Integrated structured data from Azure SQL  
+- Designed relational data model for reporting  
+
+**Key Insights:**  
+- Identified conversion rate patterns (~40%)  
+- Highlighted revenue trends across property segments  
+- Revealed high-performing categories  
+
+**Business Impact:**  
+Improved data-driven decision-making for pricing and investment strategies  
+
+🔗 **Dashboard:**  
+https://lnkd.in/dzk3ecM4  
+https://lnkd.in/dP6n4k8C  
+
+---
+
+### 🛒 2. E-commerce Conversion & Revenue Analytics
+
+**Tools Used:**  
+Power BI • MySQL • DAX • Power Query  
+
+**Business Problem:**  
+Understand customer journey and identify drop-off points affecting conversion and revenue.
+
+**Data Modeling Approach:**  
+- Funnel model (Sessions → Orders)  
+- Star schema for products, users, and channels  
+
+**Key Insights:**  
+- Conversion rate ~6.8%  
+- Major drop-offs in checkout funnel  
+- Performance variation across channels and devices  
+
+**Business Impact:**  
+Supports optimization of marketing strategy and conversion improvement  
+
+🔗 **Dashboard:**  
+https://lnkd.in/dgNHQuYq  
+
+---
+
+### 🏦 3. Banking Risk & Spending Behavior Dashboard
+
+**Tools Used:**  
+Power BI • DAX • Power Query  
+
+**Business Problem:**  
+Evaluate customer financial risk and analyze spending behavior.
+
+**Data Modeling Approach:**  
+- Customer segmentation model (income, credit score, spending)  
+- KPI-driven financial model  
+
+**Key Insights:**  
+- Identified high-risk customer segments  
+- Clear correlation between income and spending  
+
+**Business Impact:**  
+Improves risk assessment and financial targeting strategies  
+
+🔗 **Dashboard:**  
+https://lnkd.in/dufYYCmK  
+
+---
+
+### 💳 4. Lending vs Payment & Collection Analysis
+
+**Tools Used:**  
+Power BI • DAX • Power Query  
+
+**Business Problem:**  
+Monitor loan performance and collection efficiency.
+
+**Data Modeling Approach:**  
+- Time-series analysis model  
+- KPI-based financial tracking  
+
+**Key Insights:**  
+- Collection rate ~89.9%  
+- NPL ~3.6%  
+- Trends between lending and repayment  
+
+**Business Impact:**  
+Enhances loan management and collection strategies  
+
+🔗 **Dashboard:**  
+https://lnkd.in/dKnaAyPX  
+
+---
+
+### 📊 5. Automated Financial Statements Dashboard
+
+**Tools Used:**  
+Power BI • DAX • Power Query  
+
+**Business Problem:**  
+Manual financial reporting is inefficient and lacks dynamic insights.
+
+**Data Modeling Approach:**  
+- Financial model for Balance Sheet & Income Statement  
+- Dynamic KPI calculations using DAX  
+
+**Key Insights:**  
+- Key ratios: ROA, Current Ratio, Debt-Equity  
+- Year-over-Year performance tracking  
+
+**Business Impact:**  
+Automates reporting and accelerates financial decision-making  
+
+🔗 **Dashboard:**  
+https://lnkd.in/dESaS9ui  
+
+---
+
+### 📉 6. Customer Churn Analysis (Telecom)
+
+**Tools Used:**  
+Excel • Power Query • Power Pivot • DAX  
+
+**Business Problem:**  
+Identify drivers of customer churn and reduce customer loss.
+
+**Data Modeling Approach:**  
+- Segmentation by contract, services, and demographics  
+- KPI-based churn model  
+
+**Key Insights:**  
+- Churn rate ~27%  
+- Fiber users show highest churn (~40.7%)  
+
+**Business Impact:**  
+Supports retention strategies and reduces revenue loss  
+
+🔗 **Dashboard:**  
+https://lnkd.in/dMHiHTvT  
+
+---
+
+### 📈 7. Sales Performance Dashboard
+
+**Tools Used:**  
+Power BI • Power Query • DAX  
+
+**Business Problem:**  
+Lack of visibility into sales performance across regions and products.
+
+**Data Modeling Approach:**  
+- Star schema (Sales, Products, Customers)  
+- KPI-driven reporting  
+
+**Key Insights:**  
+- Identified top-performing products and regions  
+- Revenue and profit trends  
+
+**Business Impact:**  
+Improves sales tracking and strategic planning  
+
+🔗 **Dashboard:**  
+https://lnkd.in/dXqjTPNn  
+
+---
+
+### ✈️ 8. Airline Delay Analysis
+
+**Tools Used:**  
+Power BI • Power Query  
+
+**Business Problem:**  
+Analyze flight delays and identify operational inefficiencies.
+
+**Data Modeling Approach:**  
+- Aggregated model for flights, airports, airlines  
+- Time-based analysis  
+
+**Key Insights:**  
+- Average delay ~35.5 minutes  
+- Identified peak delay periods  
+
+**Business Impact:**  
+Enhances operational efficiency and scheduling  
+
+🔗 **Dashboard:**  
+https://lnkd.in/dV_hdYRz  
+
+---
+
+### 🌍 9. Global Retail Sales & Distribution
+
+**Tools Used:**  
+Excel • Power Query • Power Pivot • DAX  
+
+**Business Problem:**  
+Analyze global sales performance across regions and products.
+
+**Data Modeling Approach:**  
+- Multi-dimensional model (region, product, category)  
+- KPI-driven analysis  
+
+**Key Insights:**  
+- Revenue ~$1.35M  
+- 51K+ units sold  
+- Regional performance variations  
+
+**Business Impact:**  
+Supports global sales and distribution strategies  
+
+🔗 **Dashboard:**  
+https://lnkd.in/dJVnX-Et:
 
 ---
 
