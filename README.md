@@ -52,7 +52,7 @@ KPI Development | Business Performance Analysis | Data-Driven Decision Making | 
 Corporate Finance Institute (CFI) | Coursera  
 Completed: March 2026  
 
-<img src="https://drive.google.com/uc?export=view&id=1uhn8Jjwx2dTf57VwL8o9Dt7ICM7UnfIb" width="600"/>
+<img src="https://drive.google.com/uc?export=view&id=1uhn8Jjwx2dTf57VwL8o9Dt7ICM7UnfIb" width="200"/>
 
 Advanced training in:
 • Power BI Fundamentals  
