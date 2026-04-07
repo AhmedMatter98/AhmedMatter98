@@ -46,16 +46,67 @@ KPI Development | Business Performance Analysis | Data-Driven Decision Making | 
 
 ### 🏆 Certifications & Professional Development
 
-#### Data Skills for Excel Professionals – Specialization  
+---
+
+#### 📊 BI Essentials for Finance Analysts (Power BI Edition)-Specialization
+Corporate Finance Institute (CFI) | Coursera  
+Completed: March 2026  
+
+<img src="https://drive.google.com/file/d/1uhn8Jjwx2dTf57VwL8o9Dt7ICM7UnfIb/view?usp=drivesdk" width="600"/>
+
+Advanced training in:
+• Power BI Fundamentals  
+• Advanced DAX & Time Intelligence  
+• SQL for Data Analysis  
+• Financial Statements in Power BI  
+
+🔗 Verify: https://coursera.org/share/2352d560c0366da6c22fc69a2f0723c1  
+🔗 Certificate: https://coursera.org/verify/specialization/B9RFZ6Q6533C  
+
+---
+
+#### 📈 Data Skills for Excel Professionals – Specialization
 Corporate Finance Institute (CFI) | Coursera  
 Completed: January 2026  
 
+<img src="https://drive.google.com/file/d/1i4EMMn3lRvnGTjpx0-_7NVgSrt_i6ShM/view?usp=drivesdk" width="600"/>
 Advanced training in:
 • Data Analysis & Financial Modeling  
 • Power Query & Data Transformation  
 • Power Pivot & Data Modeling  
 
 🔗 Verify: https://coursera.org/verify/specialization/KNDQLY35XT94  
+
+---
+
+#### 🗄️ Introduction to Databases
+Meta | Coursera  
+Completed: January 2026  
+
+<img src="https://drive.google.com/file/d/1s55cCY5bOg6pYUglB7JLx-3_ab5N_7Ps/view?usp=drivesdk" width="600"/>
+
+Key Topics:
+• Database Fundamentals  
+• SQL Basics & Querying  
+• Relational Databases  
+• Data Storage & Retrieval  
+
+🔗 Verify: https://www.coursera.org/account/accomplishments/verify/SFFQ8H9NSGJJ  
+
+---
+
+#### 🚀 Data Analysis Challenger Track
+Ministry of Communications & Information Technology (MCIT) | Udacity  
+Completed: October 2022  
+
+<img src="https://drive.google.com/file/d/1UnWGtLN2Yxkp7tslW1YGEUplQHPe5KCR/view?usp=drivesdk" width="600"/>
+
+Advanced training in:
+• Data Analysis Fundamentals  
+• Python & Data Exploration  
+• Real-world Data Projects  
+
+🔗 Verify: https://www.udacity.com/certificate/e/547a489c-20bf-11ed-aed9-034ab0c41737
 
 ---
 
@@ -67,6 +118,12 @@ Validated expertise in:
 • Window functions  
 • Query optimization  
 • Aggregations & performance tuning  
+
+
+<img src="https://drive.google.com/file/d/1897Ip7CSKRPofRywgHkLSkd89YgXS35j/view?usp=drivesdk" width="600"/>
+
+
+
 
 🔗 Certificate: https://www.hackerrank.com/certificates/4cef80ccf572  
 🔗 Profile: https://www.hackerrank.com/profile/AhmedMatter  
