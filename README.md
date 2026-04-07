@@ -71,11 +71,11 @@ Validated expertise in:
 🔗 Certificate: https://www.hackerrank.com/certificates/4cef80ccf572  
 🔗 Profile: https://www.hackerrank.com/profile/AhmedMatter  
 
---## 🚀 Featured Projects
+---
+## 🚀 Featured Projects
 
 > End-to-end analytics projects demonstrating data extraction, transformation, modeling, and executive-level dashboard development.
 
----
 
 ### 🏡 1. Real Estate Price Prediction & Analytics (Eyouth Hackathon)
 
