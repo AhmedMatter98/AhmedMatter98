@@ -20,10 +20,8 @@
 <img src="https://img.shields.io/badge/VBA-867DB1?style=for-the-badge"/>
 
 <!-- Data & Programming -->
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -38,7 +36,6 @@
 
 <!-- Business -->
 <img src="https://img.shields.io/badge/Business%20Analysis-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KPI%20Design-22C55E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Financial%20Analysis-10B981?style=for-the-badge"/>
 
 </div>
