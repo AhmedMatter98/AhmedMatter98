@@ -60,8 +60,7 @@ Advanced training in:
 • SQL for Data Analysis  
 • Financial Statements in Power BI  
 
-🔗 Verify: https://coursera.org/share/2352d560c0366da6c22fc69a2f0723c1  
-🔗 Certificate: https://coursera.org/verify/specialization/B9RFZ6Q6533C  
+🔗 Verify: https://coursera.org/share/2352d560c0366da6c22fc69a2f0723c1
 
 ---
 
