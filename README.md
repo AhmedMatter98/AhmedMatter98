@@ -6,7 +6,27 @@
 <h3 align="center">Data Analyst | Business Intelligence Developer | Data Modeling Specialist</h3>
 
 ---
+### 🛠 Tools & Technologies
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DAX-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20Pivot-1E4DB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Modeling-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Business%20Analysis-6366F1?style=for-the-badge"/>
+
+</div>
+
+---
 ### 👨‍💻 Professional Summary
 
 Business Intelligence Developer and Data Analyst specializing in end-to-end analytics solutions, data modeling, and performance-driven reporting systems.
