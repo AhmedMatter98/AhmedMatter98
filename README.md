@@ -52,7 +52,7 @@ KPI Development | Business Performance Analysis | Data-Driven Decision Making | 
 Corporate Finance Institute (CFI) | Coursera  
 Completed: March 2026  
 
-<img src="https://drive.google.com/file/d/1uhn8Jjwx2dTf57VwL8o9Dt7ICM7UnfIb/view?usp=drivesdk" width="600"/>
+<img src="https://drive.google.com/uc?export=view&id=1uhn8Jjwx2dTf57VwL8o9Dt7ICM7UnfIb" width="600"/>
 
 Advanced training in:
 • Power BI Fundamentals  
@@ -69,7 +69,7 @@ Advanced training in:
 Corporate Finance Institute (CFI) | Coursera  
 Completed: January 2026  
 
-<img src="https://drive.google.com/file/d/1i4EMMn3lRvnGTjpx0-_7NVgSrt_i6ShM/view?usp=drivesdk" width="600"/>
+<img src="https://drive.google.com/uc?export=view&id=1i4EMMn3lRvnGTjpx0-_7NVgSrt_i6ShM" width="600"/>
 Advanced training in:
 • Data Analysis & Financial Modeling  
 • Power Query & Data Transformation  
@@ -83,7 +83,7 @@ Advanced training in:
 Meta | Coursera  
 Completed: January 2026  
 
-<img src="https://drive.google.com/file/d/1s55cCY5bOg6pYUglB7JLx-3_ab5N_7Ps/view?usp=drivesdk" width="600"/>
+<img src="https://drive.google.com/uc?export=view&id=1s55cCY5bOg6pYUglB7JLx-3_ab5N_7Ps" width="600"/>
 
 Key Topics:
 • Database Fundamentals  
@@ -99,7 +99,7 @@ Key Topics:
 Ministry of Communications & Information Technology (MCIT) | Udacity  
 Completed: October 2022  
 
-<img src="https://drive.google.com/file/d/1UnWGtLN2Yxkp7tslW1YGEUplQHPe5KCR/view?usp=drivesdk" width="600"/>
+<img src="https://drive.google.com/uc?export=view&id=1UnWGtLN2Yxkp7tslW1YGEUplQHPe5KCR" width="600"/>
 
 Advanced training in:
 • Data Analysis Fundamentals  
@@ -120,7 +120,7 @@ Validated expertise in:
 • Aggregations & performance tuning  
 
 
-<img src="https://drive.google.com/file/d/1897Ip7CSKRPofRywgHkLSkd89YgXS35j/view?usp=drivesdk" width="600"/>
+<img src="https://drive.google.com/uc?export=view&id=1897Ip7CSKRPofRywgHkLSkd89YgXS35j" width="600"/>
 
 
 
