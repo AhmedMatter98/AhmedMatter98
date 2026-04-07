@@ -419,7 +419,7 @@ Available for international and cross-functional collaboration.
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35"/>
   </a>
 
-  <a href="mailto:ahmedsaleeeem626@gmail.com">
+  <a href="mailto:ahmedmatter.ba@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
 
